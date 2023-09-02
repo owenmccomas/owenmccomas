@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **owen@mccomas.me**
 
-- ⚡ Fun fact **I can fluently read upside down, mirrored, and upside down and mirrored**
+- ⚡ Fun fact **I have never been to the moon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
