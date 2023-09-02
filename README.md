@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owen McComas</h1>
 <h3 align="center">A passionate full stack developer from Washington State</h3>
 
-- 🔭 I’m currently working on [A dashboard hub for your browser's home page](https://github.com/Caleb-Campbell/hob)
+- 🔭 I’m currently working on [A dashboard hub for your browser's home page](https://github.com/owenmccomas/ydaag-better)
 
 - 🌱 I’m currently learning **Use of the GPT API, C#, and TypeScript**
 
